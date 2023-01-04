@@ -237,3 +237,106 @@ Received Import Request.
 Start importing Assets/DungeonCharacters/Skeletons_demo/models/Materials/DemoSkeleton.png using Guid(93a30b3efbbb97a40a76cdded555126f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9eaf67f03651de75e1fd188cb18522') in 0.007445 seconds
   Import took 0.008789 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.476 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1514 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.4 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 1.594022 ms (FindLiveObjects: 0.119275 ms CreateObjectMapping: 0.022200 ms MarkObjects: 1.407932 ms  DeleteObjects: 0.043984 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000317 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.477 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1514 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.4 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2017.
+Total: 1.557463 ms (FindLiveObjects: 0.120083 ms CreateObjectMapping: 0.023883 ms MarkObjects: 1.374648 ms  DeleteObjects: 0.037860 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 357.726071 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6a1853b736837ecfb0820a881449cb') in 0.001989 seconds
+  Import took 0.003499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.309103 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2e3617327f51e9ddb734e809114fce') in 0.004529 seconds
+  Import took 0.006063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.551673 seconds.
+  path: Assets/Skeleton.controller
+  artifactKey: Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skeleton.controller using Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704d034290e5703d7b9ac70516cc0f2d') in 0.000765 seconds
+  Import took 0.002239 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000329 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.477 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1514 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.4 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2021.
+Total: 1.801456 ms (FindLiveObjects: 0.135780 ms CreateObjectMapping: 0.027074 ms MarkObjects: 1.582425 ms  DeleteObjects: 0.055314 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.117403 seconds.
+  path: Assets/Controllers
+  artifactKey: Guid(e06ebc993ddc3ff168893327b975cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Controllers using Guid(e06ebc993ddc3ff168893327b975cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e463d4aea32b3ef5d2674d21baa4dc') in 0.001975 seconds
+  Import took 0.003477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.210293 seconds.
+  path: Assets/Controllers/Skeleton.controller
+  artifactKey: Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Controllers/Skeleton.controller using Guid(da52c2375e000c11888639df59c52ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3d2b1e07f8ae52a547f5e59fdb0b25') in 0.006107 seconds
+  Import took 0.007747 seconds .
+
